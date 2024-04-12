@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A passionate Blockchain and Web Developer</h3>
 <img align="right" width="40%" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif"/>
+
 - 🌱 I’m currently learning **Redux, Typescript**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
